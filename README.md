@@ -4,3 +4,5 @@ This project is for Git practice.
 Run the project using Git.
 ## Usage
 This repository demonstrates basic Git workflow.
+## Git Commands
+git status, git add, git commit, git push
