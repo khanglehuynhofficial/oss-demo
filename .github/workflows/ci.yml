@@ -12,10 +12,10 @@ jobs:
 
     steps:
     - name: Bước 1 - Tai code tu GitHub ve may ao
-      uses: actions/checkout@v4
+      uses: actions/checkout@v4.2.2
 
     - name: Bước 2 - Thiet lap moi truong Node.js
-      uses: actions/setup-node@v4
+      uses: actions/setup-node@v4.1.0
       with:
         node-version: '24'
 
